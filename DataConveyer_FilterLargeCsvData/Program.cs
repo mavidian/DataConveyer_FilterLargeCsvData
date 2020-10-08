@@ -1,4 +1,4 @@
-﻿// Copyright © 2019 Mavidian Technologies Limited Liability Company. All Rights Reserved.
+﻿// Copyright © 2019-2020 Mavidian Technologies Limited Liability Company. All Rights Reserved.
 
 using Mavidian.DataConveyer.Common;
 using Mavidian.DataConveyer.Orchestrators;
