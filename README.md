@@ -38,7 +38,7 @@ Note that the output file (unlike the input file) is suitable for an Excel sprea
 
     - A message that the file was detected will appear in the console window.
 
-4. When for the copy process to complete, hit any key.
+4. Wait for the copy process to complete, then hit any key.
 
     - The file will get processed as reported in the console window.
 
